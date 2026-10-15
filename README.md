@@ -1,7 +1,7 @@
 ---
 name: holurgy
 description: "Use when the whole is greater than the sum of its parts: factors, structure, emergence. 当涉及'整体大于部分之和'的整合（因素→结构→涌现）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
