@@ -1,0 +1,3 @@
+agent-name: holurgy
+contact: https://github.com/zhaoxinghua09-cell/holurgy
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
