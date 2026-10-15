@@ -1,6 +1,6 @@
 # 整体工程术（holurgy）
 
-> 占位声明（Placeholder Claim）· 日期：2026-10-14
+> 命名注册（Term Registration Claim）· 注册日期：2026-10-14
 > 所属体系：LGD 治理学（凡自治之物）· 元层家族
 
 ## 定义
